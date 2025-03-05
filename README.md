@@ -42,6 +42,4 @@ This project highlights the need for **continued monitoring and policy support**
 - Conducting **long-term monitoring** to measure the impact of interventions.  
 
 ### **Collaboration**  
-This project is open for discussions on **public health data analysis, epidemiology, and community-based interventions**. If you have experience working in similar areas or insights on improving public health interventions, feel free to connect.  
-
-#PublicHealth #WaterSafety #HealthNeedsAssessment #DataDrivenIntervention #CommunityHealth  
+This project is open for discussions on **public health data analysis, epidemiology, and community-based interventions**. If you have experience working in similar areas or insights on improving public health interventions, feel free to connect.
